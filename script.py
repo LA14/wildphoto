@@ -21,3 +21,5 @@ Make small figure, thick red line
 
 
 Make large figure, regression experiment
+exercise 7 - change 1
+exercise 7 - change 2
