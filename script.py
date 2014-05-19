@@ -15,4 +15,4 @@ Make header bold
 
 
 
-Make small figure
+Make small figure, thick line
