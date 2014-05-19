@@ -1,4 +1,5 @@
 # Camera trap script
+# all rights reserved
 
 
 
