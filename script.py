@@ -11,6 +11,7 @@ Run analysis
 
 
 Make table
+Make header bold
 
 
 
